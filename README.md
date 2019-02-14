@@ -1,4 +1,4 @@
-# py_min_stack
+# py_min_queue
 
 Python implementation of a Queue that supports find_min() alongwith usual queue operations.
 
